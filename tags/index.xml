@@ -16,5 +16,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Fri, 28 Jan 2022 16:41:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/rust/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
